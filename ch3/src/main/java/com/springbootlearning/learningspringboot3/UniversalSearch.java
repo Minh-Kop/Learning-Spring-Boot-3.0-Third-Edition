@@ -1,4 +1,4 @@
 package com.springbootlearning.learningspringboot3;
 
-record UniversalSearch(String value) {
+public record UniversalSearch(String value) {
 }
